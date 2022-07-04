@@ -1,4 +1,4 @@
-# Health_Center_Data_Model_Project
+# Health Center Data Model Project With Cassandra
 
 ## What is it?
 
