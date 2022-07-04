@@ -17,9 +17,9 @@ Data Model Project, It Is Built On Python And Postgres Database
 
 Files used on the project:
 
-1 - [index.ipynb	](https://github.com/Abdelrhman-Yassein/-Health_Center_Data_Model_Project-with-cassandra/blob/master/index.ipynb) : You run this file to make connection to database and run create ,drop and insert sql
+1 - [index.ipynb	](https://github.com/Abdelrhman-Yassein/Health-Center-Data-Model-Project-with-cassandra/blob/main/index.ipynb) : You run this file to make connection to database and run create ,drop and insert sql
 
-4 - [health_centres_data_mart_model.png](https://github.com/Abdelrhman-Yassein/Health_Center_Data_Model_Project/blob/master/health_centres_data_mart_model.png) : star schem image
+4 - [health_centres_data_mart_model.png](https://raw.githubusercontent.com/Abdelrhman-Yassein/Health-Center-Data-Model-Project-with-cassandra/main/health_centres_data_mart_model.png) : star schem image
 
 
 
